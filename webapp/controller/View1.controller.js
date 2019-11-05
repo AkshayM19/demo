@@ -5,7 +5,6 @@ sap.ui.define([
 
 	return Controller.extend("demofragment.demofragment.controller.View1", {
 		onInit: function () {
-
 			var oData = {
 				names: [
 					{
